@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">APP-EXTRA-MENU</string>
+    <string name="btn1">Botón Uno</string>
+    <string name="btn2">Botón Dos</string>
+    <string name="btn3">Botón Tres</string>
+    <string name="btn4">Botón Cuatro</string>
+    <string name="btn5">Botón Cinco</string>
+    <string name="txtOculto">Presiona el botón 5</string>
+    <string name="btn1Act">Volver</string>
+    <string name="btn2Act">Botón Dos</string>
+    <string name="txtAct">¡Has navegado hacia otra actividad!</string>
+</resources>
